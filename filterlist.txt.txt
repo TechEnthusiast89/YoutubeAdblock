@@ -1,0 +1,2 @@
+||youtube.com^$third-party
+||googlevideo.com^$third-party
